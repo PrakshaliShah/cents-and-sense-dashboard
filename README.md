@@ -19,7 +19,7 @@ An Excel dashboard exploring how U.S. cities distribute consumer spend across de
 
 ## 🖼️ Preview
 
-![Dashboard Screenshot](dashboard-preview.png)
+![Dashboard Screenshot](C&S PNG.png)
 
 ## 🔗 View the File  
-[📂 Click here to view the Excel dashboard](https://github.com/yourusername/cents-and-sense-dashboard/blob/main/CentsAndSense_Dashboard.xlsx)
+[📂 Click here to view the Excel dashboard](https://github.com/prakshalishah/cents-and-sense-dashboard/blob/main/CentsAndSense_Dashboard.xlsx)
