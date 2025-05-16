@@ -14,9 +14,6 @@ An Excel dashboard exploring how U.S. cities distribute consumer spend across de
 - Color-coded heatmap across denominations
 - Clean, minimal dashboard design
 
-## 📁 Files
-- `CentsAndSense_Dashboard.xlsx`
-
 ## 🖼️ Preview
 
 ![Dashboard Screenshot](dashboard.png)
